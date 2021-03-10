@@ -16,9 +16,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luigiar10" alt="">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luigiar10" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luigiar10&layout=compact" alt="Github Stats">
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigiar10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
