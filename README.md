@@ -26,7 +26,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Luigi%20Arrieta%20Moreno-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:luigi10arrieta@gmail.com"><img src="https://img.shields.io/badge/-luigi10arrieta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/luigi_arrieta"><img src="https://img.shields.io/badge/-@luigi_arrieta-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/luigi-arrieta-moreno" target="_blank"><img src="https://img.shields.io/badge/-Luigi%20Arrieta%20Moreno-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:luigi10arrieta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-luigi10arrieta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/luigi_arrieta" target="_blank"><img src="https://img.shields.io/badge/-@luigi_arrieta-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
