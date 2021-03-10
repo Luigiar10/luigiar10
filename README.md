@@ -15,8 +15,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luigiar10)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luigiar10" alt="">
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigiar10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
