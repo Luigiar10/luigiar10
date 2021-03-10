@@ -19,9 +19,9 @@
 <p align="left">
 <a href="https://github.com/Luigiar10">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luigiar10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luigiar10)]
 </a>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luigiar10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
