@@ -22,6 +22,8 @@
 </a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Luigiar10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
