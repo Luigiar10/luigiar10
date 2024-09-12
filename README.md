@@ -29,6 +29,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
 <p align="left">
 <a href="https://linkedin.com/in/luigi-arrieta" target="_blank"><img src="https://img.shields.io/badge/-Luigi%20Arrieta%20Moreno-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luigi10arrieta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-luigi10arrieta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
