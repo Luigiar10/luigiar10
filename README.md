@@ -4,6 +4,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -26,7 +27,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/luigi-arrieta-moreno" target="_blank"><img src="https://img.shields.io/badge/-Luigi%20Arrieta%20Moreno-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/luigi-arrieta" target="_blank"><img src="https://img.shields.io/badge/-Luigi%20Arrieta%20Moreno-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luigi10arrieta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-luigi10arrieta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/luigi_arrieta" target="_blank"><img src="https://img.shields.io/badge/-@luigi_arrieta-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
